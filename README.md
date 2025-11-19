@@ -1,5 +1,6 @@
 # Hi 👋, I'm Dylan Cos
 
+## About Me
 ### System engineer student | AI & Data Science enthusiast
 
 - 🔭 I'm currently working on **Early detection of Alzheimer using EEG signal processing, machine learning and immersive VR tasks.**
@@ -9,11 +10,8 @@
 - 👯 I'm looking to collaborate on **Open source projects related to machine learning, data analysis or backend systems.**
   
 
-- 🤝 I'm looking for help with **Improving my system design and backend architecture skills.**
-  
-
-- 💬 Ask me about **Backend development, data analysis, databases, and software engineering fundamentals.**
-  
+- 🤝 I'm looking to improve **my system design and backend architecture skills.**
+    
 
 - 📫 How to reach me **dcos@alumnos.exa.unicen.edu.ar**
   
