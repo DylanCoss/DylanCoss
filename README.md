@@ -13,7 +13,7 @@
 - 🤝 I'm looking to improve **my system design and backend architecture skills.**
     
 
-- 📫 How to reach me **dcos@alumnos.exa.unicen.edu.ar**
+- 📫 **How to reach me:** **dcos@alumnos.exa.unicen.edu.ar**
   
 
 <h3 align="left">Connect with me:</h3>
