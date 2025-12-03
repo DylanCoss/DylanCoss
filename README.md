@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dylan Cos
+# Hi , I'm Dylan Cos
 
 ## About Me
 ### System engineer student | AI & Data Science enthusiast
