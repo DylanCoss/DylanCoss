@@ -3,15 +3,9 @@
 ## About Me
 ### System engineer student | AI & Data Science enthusiast
 
-- 🔭 I'm currently working on **EEG signal processing, machine learning and immersive VR tasks.**
+- Currently working on **EEG signal processing, machine learning and immersive VR tasks.**
 
-- 🌱 I'm currently learning **Machine learning, data engineering fundamentals, system design, Python for data science.**
-
-- 👯 I'm looking to collaborate on **Open source projects related to machine learning, data analysis or backend systems.**
-  
-
-- 🤝 I'm looking to improve **my system design and backend architecture skills.**
-    
+- Learning **Machine learning, data engineering fundamentals, system design, Python for data science.**    
 
 - 📫 **How to reach me:** **dcos@alumnos.exa.unicen.edu.ar**
 
